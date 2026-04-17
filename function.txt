@@ -1,3 +1,4 @@
-“This is a representation of an unfinished function a group member is working
-on.”
+This is a representation of an unfinished function a group member is working
+on.
+This is a new change from Martin Eklund
 “This is a new change from Nicholas Kjos”
